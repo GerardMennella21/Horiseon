@@ -17,7 +17,7 @@ The benefits section appears next and is floated to the right of the previous co
 The footer is at the next and last section on the page. It contains the requested h2 element "Made with ❤️️ by Horiseon" as well as the copyright.
 
 # Deployed Application URL
-
+https://gerardmennella21.github.io/Horiseon/
 
 # Screenshot of Page
 ![Screenshot](./Develop/assets/images/Screenshot.png)
