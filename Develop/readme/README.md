@@ -20,4 +20,4 @@ The footer is at the next and last section on the page. It contains the requeste
 https://gerardmennella21.github.io/Horiseon/
 
 # Screenshot of Page
-![Screenshot](./Develop/assets/images/Screenshot.png)
+![Screenshot](../assets/images/Screenshot.png)
